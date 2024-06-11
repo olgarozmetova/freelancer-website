@@ -2,7 +2,12 @@
 
 A simple website about freelance services on web development.
 
-- HTML/CSS
-- Responsive design
+This website is built with HTML and CSS.
 
-<img src="img/screen.png" />
+## Features
+
+- Responsive design
+- CSS Flexbox
+- Form & input
+
+<img src="src/img/screen.png" />
