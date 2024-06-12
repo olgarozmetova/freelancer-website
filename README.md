@@ -8,6 +8,6 @@ This website is built with HTML and CSS.
 
 - Responsive design
 - CSS Flexbox
-- Form & input
+- Form & input styles
 
 <img src="src/img/screen.png" />
