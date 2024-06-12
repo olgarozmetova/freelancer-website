@@ -7,7 +7,7 @@ This website is built with HTML and CSS.
 ## Features
 
 - Responsive design
-- CSS Flexbox
+- CSS Flex
 - Form & input styles
 
 <img src="src/img/screen.png" />
